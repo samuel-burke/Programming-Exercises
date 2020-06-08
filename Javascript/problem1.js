@@ -6,8 +6,6 @@ function multiplesOf3and5(number) {
         total += i;
       }
     }
-    
-    console.log(total);
     return total;
   }
   

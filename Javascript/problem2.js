@@ -17,7 +17,6 @@ function fiboEvenSum(n) {
       b = a + b;
       a = temp;
     }
-    console.log(sum);
     return sum;
   }
   
