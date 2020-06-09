@@ -1,2 +1,2 @@
-# Project-Euler
-My personal solutions to Project Euler problems that i have worked on.
+# Programming-Exercises
+My personal solutions to various programming exercises I have worked on.
